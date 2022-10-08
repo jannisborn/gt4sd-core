@@ -23,13 +23,14 @@ reinvent-chemistry==0.0.38
 sacremoses>=0.0.41
 scikit-learn>=1.0.0
 scikit-optimize>=0.8.1
+scipy>=1.0.0
 sentencepiece>=0.1.95
 sympy>=1.10.1
 tables>=3.7.0
 tape-proteins>=0.4
 tensorboard!=2.5.0,>=2.2.0
-tensorflow==2.1.0
-torchdrug>=0.1.2
+tensorflow>=2.1.0
+torchdrug>=0.2.0
 torchmetrics<0.7
 torchvision>=0.12.0
 transformers>=4.22.0
