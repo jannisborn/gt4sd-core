@@ -10,7 +10,7 @@ dependencies:
   - pip=24.0
   - pytorch>=1.0,<=1.12.1
   - cpuonly
-  - pytorch-scatter<=2.0.9=*cu102*
+  - pytorch-scatter<=2.0.9
   - pip:
       - -r requirements.txt
       - -r cpu_requirements.txt
